@@ -1,0 +1,36 @@
+---
+title: "Carnet de notes"
+author: '...'
+date: "..."
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Contexte
+
+<!--- G.E. consignes
+Cette section doit présenter en 1 paragraphe maximum le sujet de ce carnet de notes 
+
+Un carnet de notes sert à consigner toutes vos essais graphiques, tableaux, tests stats,... Vos graphiques, tableaux et tests stats les plus intéressants doivent être consignés dans votre rapport. 
+
+En résumé, un carnet de notes sert à tout consigner alors qu'un rapport scientifique sert uniquement pour les analyses les plus intéressantes. 
+
+---->
+
+# Analyses
+
+
+<!--- G.E. consignes
+Cette section peut être subdivisée en plusieurs sous-sections. 
+
+Cette section doit comprendre au minimum 5 et au maximum 10 graphiques corrects et commentés. 
+
+Cette section doit comprendre au minimum 2 et au maximum 5 tableaux corrects et commentés.
+
+Cette section doit comprendre au minimum 3 et au maximum 5 tests statistiques correctement exécutés et commentés.
+---->
+
+
