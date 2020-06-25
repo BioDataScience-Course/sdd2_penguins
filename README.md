@@ -27,7 +27,8 @@ membre du [Long Term Ecological Research Network](https://lternet.edu/)
 ## Objectifs
 
 Répondez à la question suivante : **Y a t’il une différence entre ces
-trois espèces de pinguins ?**
+trois espèces de pinguins ? Utilisez les outils multivariés pour
+répondre à cette question.**
 
 Vous avez à votre disposition le jeu de données `penguins.rds` et la
 grille d’évaluation `grille.xlsx`.
@@ -49,11 +50,9 @@ notes. Chaque carnet de notes doit débuter par une mise en contexte qui
 explique l’objectif de ce dernier. Le carnet de notes contient
 l’ensemble des réflexions sur une thématique précise.
 
-Ce carnet de notes doit comprendre au minimum 5 et maximum 10 graphiques
-corrects et commentés. Ce carnet doit également comprendre au minimum 2
-et maximum 5 tableaux corrects et commentés. Enfin, ce carnet doit
-comprendre au minimum 3 et maximum 5 tests statistiques corrects et
-commentés.
+Ce carnet de notes doit comprendre une section pour chaque module.
+Chaque module doit être étudié au sein du carnet de notes (module 5, 6,
+7, 8).
 
 ### Rapport scientifique
 
@@ -77,7 +76,7 @@ rapport. Enfin, il doit comprendre une description des outils et des
 versions de ces derniers.
 
 La section résultat de votre rapport scientifique doit comprendre des
-graphiques, des tableaux et des analyses statistiques sélectionnés
+graphiques, des tableaux et des analyses multivariées sélectionnées
 judicieusement. Ils doivent être décrits dans la section résultat. Les
 résultats doivent être uniquement décrits.
 

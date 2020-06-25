@@ -26,7 +26,7 @@ Les données mise à disposition ont été collectées par [Dr. Kristen Gorman](
 
 ## Objectifs
 
-Répondez à la question suivante : **Y a t'il une différence entre ces trois espèces de pinguins ?**
+Répondez à la question suivante : **Y a t'il une différence entre ces trois espèces de pinguins ? Utilisez les outils multivariés pour répondre à cette question.**
 
 Vous avez à votre disposition le jeu de données `penguins.rds` et la grille d'évaluation `grille.xlsx`. 
 
@@ -34,15 +34,13 @@ Vous avez à votre disposition le jeu de données `penguins.rds` et la grille d'
 
 Proposez un projet portable dont l'ensemble des fichiers sont exécutables. L'ensemble de ces fichiers doit être organisé. Soyez attentif à donner des noms corrects à vos fichiers. 
 
-
 Ce projet doit contenir au minimum 2 fichiers dont un carnet de notes (**penguins_note.Rmd**) et un rapport scientifique (**penguins_report.Rmd**).
 
 ### Carnet de notes
 
 Le carnet de notes doit débuter par une mise en contexte du carnet de notes. Chaque carnet de notes doit débuter par une mise en contexte qui explique l'objectif de ce dernier. Le carnet de notes contient l'ensemble des réflexions sur une thématique précise.
 
-
-Ce carnet de notes doit comprendre au minimum 5 et maximum 10 graphiques corrects et commentés. Ce carnet doit également comprendre au minimum 2 et maximum 5 tableaux corrects et commentés. Enfin, ce carnet doit comprendre au minimum 3 et maximum 5 tests statistiques corrects et commentés.
+Ce carnet de notes doit comprendre une section pour chaque module. Chaque module doit être étudié au sein du carnet de notes (module 5, 6, 7, 8).
 
 ### Rapport scientifique
 
@@ -61,7 +59,7 @@ Le rapport doit comprendre un but court qui résume la question de recherche de 
 Le rapport doit comprendre un matériel et méthode complet. Un M&M complet comprend une explication sur les données. Il doit également comprendre une description des techniques statistiques employées dans ce rapport. Enfin, il doit comprendre une description des outils et des versions de ces derniers.
 
 
-La section résultat de votre rapport scientifique doit comprendre des graphiques, des tableaux et des analyses statistiques sélectionnés judicieusement. Ils doivent être décrits dans la section résultat. Les résultats doivent être uniquement décrits.
+La section résultat de votre rapport scientifique doit comprendre des graphiques, des tableaux et des analyses multivariées sélectionnées judicieusement. Ils doivent être décrits dans la section résultat. Les résultats doivent être uniquement décrits.
 
 
 La section discussion doit comprendre une discussion de vos résultats. Ne confondez pas la description et la discussion de vos analyses.

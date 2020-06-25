@@ -38,11 +38,9 @@ Attention, vous devez utiliser des structures écrites.
 # Résultats
 
 <!--- G.E. consignes
-Cette section doit comprendre au minimum 2 et maximum  4 graphiques. Chaque graphique doit avoir des labels en français et une légende complète. 
+Cette section doit comprendre au minimum 2 et maximum 5 graphiques. Chaque graphique doit avoir des labels en français et une légende complète. Cette section doit comprendre au minimum 1 et maximum 2 tableaux. Chaque tableau doit avoir un titre. Les graphiques et les tableaux doivent être décrits dans le texte. 
 
-Cette section doit comprendre au minimum 1 et maximum 2 tableaux. Chaque tableau doit avoir un titre.
-
-Les graphiques et les tableaux doivent être décrits dans le texte. 
+Vous devez proposer l'analyse la plus judicieuse des données. Il n'est donc pas nécessaire de proposer l'analyse de chaque module. Le choix des analyses à présenter est complex. Il ne faut pas proposer une analyse pour chaque module.
 
 Attention, vous devez utiliser des structures écrites.
 ---->
